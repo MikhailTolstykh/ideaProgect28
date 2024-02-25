@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-
+eror.txt
 ### Eclipse ###
 .apt_generated
 .classpath
